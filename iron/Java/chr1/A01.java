@@ -1,3 +1,4 @@
+package iron.Java.chr1;
 import java.util.Scanner;
 
 public class Main{
