@@ -1,11 +1,13 @@
-# Chapterでググった内容
+## Chapter3 : 二分探索
+
+### ググった内容
 [【Python入門】３つのexitを使い分けよう!](https://www.sejuku.net/blog/24331)
 
 [Pythonにおけるbisect()の利用方法を現役エンジニアが解説【初心者向け】](https://magazine.techacademy.jp/magazine/24823)
 
 [bisectの基本的な使い方と、自作方法](https://kakedashi-engineer.appspot.com/2020/04/12/bisect/)
 
-# Chapterで不安なアルゴリズム
+### 不安なアルゴリズム
 **しゃくとり法についての理解が曖昧なため、以下サイトにて定着させる**
 
 
