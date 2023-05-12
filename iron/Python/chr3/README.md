@@ -8,5 +8,7 @@
 # Chapterで不安なアルゴリズム
 - しゃくとり法についての理解が曖昧なため、以下サイトにて定着させる
 [しゃくとり法の解説とそれを用いる問題のまとめ](https://qiita.com/drken/items/ecd1a472d3a0e7db8dce)
+
 [1](https://ailog.site/2022/11/05/2022/1106/)
+
 [2](https://www.youtube.com/watch?v=aqncsLxYt8s)
