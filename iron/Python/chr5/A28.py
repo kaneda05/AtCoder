@@ -5,12 +5,15 @@ for i in range(N):
     A = int(A)
     if T == "+":
         ans += A
-        print(ans%10000)
 
     elif T == "-":
         ans -= A
-        print(ans%10000)
         
     else:
         ans *= A
-        print(ans%10000)
+
+    if ans < 0:
+        ans += 10000
+
+    ans %= 10000
+    print(ans)
