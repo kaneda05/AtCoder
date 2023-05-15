@@ -1,0 +1,1 @@
+[C++ while文とdo while文のサンプル](https://itsakura.com/cpp-while)
