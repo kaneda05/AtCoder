@@ -1,0 +1,1 @@
+[Pythonで小数点以下を切り捨て・切り上げ: math.floor(), math.ceil()](https://note.nkmk.me/python-math-floor-ceil-int/)
