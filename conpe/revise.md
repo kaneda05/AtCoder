@@ -5,19 +5,19 @@
 |:--:|:--:|
 |**C問題とD問題**|bit全探索と一次元のDP|
 
-[ABC285](https://atcoder.jp/contests/abc285)
-**B問題とC問題**
-- C問題の着想
+|[ABC285](https://atcoder.jp/contests/abc285)|復習内容|
+|:--:|:--:|
+|**B問題とC問題**|C問題の着想|
 
-[ABC284](https://atcoder.jp/contests/abc284)
-**C問題**
-- BFS,DFS,Union-Find
+|[ABC284](https://atcoder.jp/contests/abc284)|復習内容|
+|:--:|:--:|
+|**C問題**|BFS,DFS,Union-Find|
 
-[ABC282](https://atcoder.jp/contests/abc284)
-**B問題**
-- 三重ループの復習
+|[ABC282](https://atcoder.jp/contests/abc284)|復習内容|
+|:--:|:--:|
+|**B問題**|三重ループの復習|
 
 
-[ABC281](https://atcoder.jp/contests/abc284)
-**C問題**
-- 愚直に解くとTLEする問題
+[ABC281](https://atcoder.jp/contests/abc284)|復習内容|
+|:--:|:--:|
+|**C問題**|愚直に解くとTLEする問題|
