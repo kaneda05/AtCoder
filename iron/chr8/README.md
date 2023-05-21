@@ -24,3 +24,9 @@
 |:--:|:--:|:--:|:--:|:--:|
 ||A54|[A54](https://github.com/kaneda05/AtCoder/blob/main/iron/chr8/Python/A54.py)|[A54]()|[A54]()|
 ||B53|[B54](https://github.com/kaneda05/AtCoder/blob/main/iron/chr8/Python/B54.py)|[B54]()|[B54]()|
+
+
+|8.6|文字のハッシュ|Python|C++|Java|
+|:--:|:--:|:--:|:--:|:--:|
+||A56|[A56](https://github.com/kaneda05/AtCoder/blob/main/iron/chr8/Python/A56.py)|[A56]()|[A56]()|
+||B56|[B56](https://github.com/kaneda05/AtCoder/blob/main/iron/chr8/Python/B56.py)|[B56]()|[B56]()|
