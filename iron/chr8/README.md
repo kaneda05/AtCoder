@@ -30,3 +30,14 @@
 |:--:|:--:|:--:|:--:|:--:|
 ||A56|[A56](https://github.com/kaneda05/AtCoder/blob/main/iron/chr8/Python/A56.py)|[A56]()|[A56]()|
 ||B56|[B56](https://github.com/kaneda05/AtCoder/blob/main/iron/chr8/Python/B56.py)|[B56]()|[B56]()|
+
+|8.7|ダブリング|Python|C++|Java|
+|:--:|:--:|:--:|:--:|:--:|
+||A56|[A56](https://github.com/kaneda05/AtCoder/blob/main/iron/chr8/Python/A56.py)|[A56]()|[A56]()|
+||B56|[B56](https://github.com/kaneda05/AtCoder/blob/main/iron/chr8/Python/B56.py)|[B56]()|[B56]()|
+
+
+|8.8|セグメント木:RMQ|Python|C++|Java|
+|:--:|:--:|:--:|:--:|:--:|
+||A56|[A56](https://github.com/kaneda05/AtCoder/blob/main/iron/chr8/Python/A56.py)|[A56]()|[A56]()|
+||B56|[B56](https://github.com/kaneda05/AtCoder/blob/main/iron/chr8/Python/B56.py)|[B56]()|[B56]()|
