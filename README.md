@@ -5,7 +5,7 @@
 |ABC|1~100|101~200|201~300|301~400|テクニック|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |[AtCoder](https://atcoder.jp/home)|[ABC 1~100](https://github.com/kaneda05/AtCoder/blob/main/conpe/README100.md)|[ABC 101~200](https://github.com/kaneda05/AtCoder/blob/main/conpe/README200.md)|[ABC 201~300](https://github.com/kaneda05/AtCoder/blob/main/conpe/README300.md)|[ABC 301~400](https://github.com/kaneda05/AtCoder/blob/main/conpe/README400.md)|[ABCテクニック](https://github.com/kaneda05/AtCoder/blob/main/conpe/Technique.md)|
-|解き直し|[解き直し①](https://github.com/kaneda05/AtCoder/blob/main/conpe/revise100.md)|[解き直し②](https://github.com/kaneda05/AtCoder/blob/main/conpe/revise200.md)|[解き直し③](https://github.com/kaneda05/AtCoder/blob/main/conpe/revise300.md)|[解き直し④](https://github.com/kaneda05/AtCoder/blob/main/conpe/revise400.md)||
+|**解き直し**|[解き直し①](https://github.com/kaneda05/AtCoder/blob/main/conpe/revise100.md)|[解き直し②](https://github.com/kaneda05/AtCoder/blob/main/conpe/revise200.md)|[解き直し③](https://github.com/kaneda05/AtCoder/blob/main/conpe/revise300.md)|[解き直し④](https://github.com/kaneda05/AtCoder/blob/main/conpe/revise400.md)||
 
 
 |競技プログラミングの鉄則|目次|解き直し|
