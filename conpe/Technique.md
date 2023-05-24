@@ -5,10 +5,14 @@
 ### 回転系
 [【Python】行列の90度右回転、90度左回転、180度回転【AtCoder】](https://qiita.com/rudorufu1981/items/5341d9603ecb1f9c2e5c)
 
-
+## 配列系
 ### リストを辞書順でソート
 ABC288のB問題 sortedについて
 
+### 連想配列
+- collections Counter
+[ABC8のC問題](https://atcoder.jp/contests/abc008/tasks/abc008_2)
+[使い方](https://note.nkmk.me/python-collections-counter/)
 
 ## グラフ系
 ### Union-Find
