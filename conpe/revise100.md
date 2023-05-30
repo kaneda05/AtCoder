@@ -17,3 +17,7 @@
 |[ABC40](https://atcoder.jp/contests/abc29)|復習内容|
 |:--:|:--:|
 |**C問題**|動的計画法|
+
+|[ABC55](https://atcoder.jp/contests/abc29)|復習内容|
+|:--:|:--:|
+|**B問題**|オーバーフロー|
