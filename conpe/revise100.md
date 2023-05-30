@@ -13,3 +13,7 @@
 |[ABC29](https://atcoder.jp/contests/abc29)|復習内容|
 |:--:|:--:|
 |**C問題**|itertools.product|
+
+|[ABC40](https://atcoder.jp/contests/abc29)|復習内容|
+|:--:|:--:|
+|**C問題**|動的計画法|
