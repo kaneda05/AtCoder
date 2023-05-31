@@ -11,6 +11,10 @@ ABC36：B問題
 ### リストを辞書順でソート
 ABC288のB問題 sortedについて
 
+- insert
+[参照](https://note.nkmk.me/python-list-append-extend-insert/)
+[ABC62のB問題](https://atcoder.jp/contests/abc062/tasks/abc062_b)
+
 ### 連想配列
 - collections Counter
 [ABC8のC問題](https://atcoder.jp/contests/abc008/tasks/abc008_2)
