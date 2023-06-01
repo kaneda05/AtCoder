@@ -4,8 +4,13 @@
 
 ### 回転系
 [【Python】行列の90度右回転、90度左回転、180度回転【AtCoder】](https://qiita.com/rudorufu1981/items/5341d9603ecb1f9c2e5c)
-ABC4：[B問題](https://atcoder.jp/contests/abc004/tasks/abc004_b)
-ABC36：[B問題](https://atcoder.jp/contests/abc036/tasks/abc036_b)
+
+- ABC4：[B問題](https://atcoder.jp/contests/abc004/tasks/abc004_b)
+
+
+- ABC36：[B問題](https://atcoder.jp/contests/abc036/tasks/abc036_b)
+
+- ABC77:[A問題](https://atcoder.jp/contests/abc077/tasks/abc077_a)
 
 ## 配列系
 ### リストを辞書順でソート
@@ -20,7 +25,11 @@ ABC288のB問題 sortedについて
 [ABC8のC問題](https://atcoder.jp/contests/abc008/tasks/abc008_2)
 [使い方](https://note.nkmk.me/python-collections-counter/)
 
+### 八方向の探索問題
+[ABC75のB問題](https://atcoder.jp/contests/abc075/tasks/abc075_b)
+
 ## グラフ系
 ### Union-Find
 [参考 ABC288のC](https://qiita.com/Waaaa1471/items/24f3c3475eb462ad26ac)
 [PythonでのUnion-Find（素集合データ構造）の実装と使い方](https://note.nkmk.me/python-union-find/)
+

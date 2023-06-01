@@ -29,3 +29,7 @@
 |[ABC68](https://atcoder.jp/contests/abc68)|復習内容|
 |:--:|:--:|
 |**B問題**|実装スピード|
+
+|[ABC75](https://atcoder.jp/contests/abc75)|復習内容|
+|:--:|:--:|
+|**B問題**|二重ループ（爆弾）|
