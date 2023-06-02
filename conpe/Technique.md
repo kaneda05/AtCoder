@@ -20,6 +20,11 @@ ABC288のB問題 sortedについて
 [参照](https://note.nkmk.me/python-list-append-extend-insert/)
 [ABC62のB問題](https://atcoder.jp/contests/abc062/tasks/abc062_b)
 
+### リストの奇数番目と偶数番目を取得する
+[ABC88のB問題](https://atcoder.jp/contests/abc088/tasks/abc088_b)
+- 参考 [Pythonで配列の要素の奇数番目と偶数番目を取得する](https://www.kabegiwablog.com/entry/2018/12/04/100000)
+
+
 ### 連想配列
 - collections Counter
 [ABC8のC問題](https://atcoder.jp/contests/abc008/tasks/abc008_2)
@@ -43,9 +48,13 @@ ABC288のB問題 sortedについて
 
 ## itertools
 - itertools.product
-|[ABC79](https://atcoder.jp/contests/abc75)|復習内容|
+|[ABC79](https://atcoder.jp/contests/abc79)|復習内容|
 |:--:|:--:|
 |**C問題**|itertools.product|
 
 ## eval
 [evalとexec](https://qiita.com/kyoshidajp/items/57ae371b3f5d8a84fb13)
+
+# 整数の格桁の和を求める
+割とよく出題されるので
+[参考](https://www.suzu6.net/posts/30/)
