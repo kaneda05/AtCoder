@@ -33,3 +33,19 @@ ABC288のB問題 sortedについて
 [参考 ABC288のC](https://qiita.com/Waaaa1471/items/24f3c3475eb462ad26ac)
 [PythonでのUnion-Find（素集合データ構造）の実装と使い方](https://note.nkmk.me/python-union-find/)
 
+## 再帰関数
+|[ABC79](https://atcoder.jp/contests/abc75)|復習内容|
+|:--:|:--:|
+|**B問題**|メモ化再帰|
+[１行追加するだけの超お手軽な高速化その１　メモ化](https://qiita.com/alchemist/items/c75174c41b0bcd31ecc6)
+
+## Collections
+
+## itertools
+- itertools.product
+|[ABC79](https://atcoder.jp/contests/abc75)|復習内容|
+|:--:|:--:|
+|**C問題**|itertools.product|
+
+## eval
+[evalとexec](https://qiita.com/kyoshidajp/items/57ae371b3f5d8a84fb13)

@@ -32,4 +32,12 @@
 
 |[ABC75](https://atcoder.jp/contests/abc75)|復習内容|
 |:--:|:--:|
-|**B問題**|二重ループ（爆弾）|
+|**B問題**|8方向移動|
+
+|[ABC86](https://atcoder.jp/contests/abc75)|復習内容|
+|:--:|:--:|
+|**B問題**|メモ化再帰|
+
+|[ABC87](https://atcoder.jp/contests/abc75)|復習内容|
+|:--:|:--:|
+|**B問題**|evalとitertools.product|
