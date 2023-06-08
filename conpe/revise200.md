@@ -20,3 +20,23 @@
 ＋α <strong>labda式<strong>の使い方
 
 
+|[ABC133](https://atcoder.jp/contests/abc133)|復習内容|
+|:--:|:--:|
+|**B問題**|itertools.conbination|
+
+
+|[ABC134](https://atcoder.jp/contests/abc134)|復習内容|
+|:--:|:--:|
+|**C問題**|リスト管理の工夫|
+
+|[ABC135](https://atcoder.jp/contests/abc135)|復習内容|
+|:--:|:--:|
+|**C問題**|実装力|
+
+|[ABC139](https://atcoder.jp/contests/abc135)|復習内容|
+|:--:|:--:|
+|**D問題**|思考力|
+
+|[ABC140](https://atcoder.jp/contests/abc135)|復習内容|
+|:--:|:--:|
+|**C問題**|実装力|
