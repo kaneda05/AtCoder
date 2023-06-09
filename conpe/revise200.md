@@ -17,7 +17,7 @@
 |[ABC128](https://atcoder.jp/contests/abc128)|復習内容|
 |:--:|:--:|
 |**B問題**|辞書順にソートしたのち、値によるindex出力|
-＋α <strong>labda式<strong>の使い方
+|＋α| <strong>labda式<strong>の使い方|
 
 
 |[ABC133](https://atcoder.jp/contests/abc133)|復習内容|
