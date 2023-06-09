@@ -40,3 +40,21 @@
 |[ABC140](https://atcoder.jp/contests/abc135)|復習内容|
 |:--:|:--:|
 |**C問題**|実装力|
+
+|[ABC143](https://atcoder.jp/contests/abc143)|復習内容|
+|:--:|:--:|
+|**B問題**|itertools.combinationsの優しめな問題|
+[参考](https://docs.python.org/ja/3/library/itertools.html)
+
+|[ABC145](https://atcoder.jp/contests/abc145)|復習内容|
+|:--:|:--:|
+|**C問題**|itertools.permutation math.factorial|
+[参考](https://docs.python.org/ja/3/library/itertools.html)
+
+|[ABC146](https://atcoder.jp/contests/abc146)|復習内容|
+|:--:|:--:|
+|**B問題**|chr,ordを確認する良問|
+
+|[ABC149](https://atcoder.jp/contests/abc149)|復習内容|
+|:--:|:--:|
+|**C問題**|素数判定プログラム|
