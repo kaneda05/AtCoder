@@ -110,7 +110,32 @@
 |:--:|:--:|
 |**C問題**|思考法|
 
-|[ABC180](https://atcoder.jp/contests/abc177)|復習内容|
+|[ABC180](https://atcoder.jp/contests/abc180)|復習内容|
 |:--:|:--:|
 |**C問題**|約数列挙|
 
+
+|[ABC181](https://atcoder.jp/contests/abc181)|復習内容|
+|:--:|:--:|
+|**C問題**|3点が同一直線上に存在するか|
+
+
+|[ABC182](https://atcoder.jp/contests/abc182)|復習内容|
+|:--:|:--:|
+|**C問題**|場合分けの問題|
+
+|[ABC183](https://atcoder.jp/contests/abc183)|復習内容|
+|:--:|:--:|
+|**B問題**|数学系|
+
+|[ABC183](https://atcoder.jp/contests/abc183)|復習内容|
+|:--:|:--:|
+|**C問題**|itertools.permutations|
+
+|[ABC185](https://atcoder.jp/contests/abc185)|復習内容|
+|:--:|:--:|
+|**C問題**|math.comb|
+
+|[ABC186](https://atcoder.jp/contests/abc185)|復習内容|
+|:--:|:--:|
+|**B問題**|numpy|

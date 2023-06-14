@@ -21,4 +21,5 @@
 [ABC281](https://atcoder.jp/contests/abc284)|復習内容|
 |:--:|:--:|
 |**C問題**|愚直に解くとTLEする問題|
+|参考|[3点が同一直線上の点か調べる](https://qiita.com/tydesign/items/ab8a5ae52eb9c50ad26a)|
 
