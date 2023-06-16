@@ -1,5 +1,12 @@
 ## 解き直し
 #### 直近で解き直したいと思う問題をPick-up
+|[ABC202](https://atcoder.jp/contests/abc202)|復習内容|
+|:--:|:--:|
+|**C問題**|計算量|
+
+|[ABC206](https://atcoder.jp/contests/abc202)|復習内容|
+|:--:|:--:|
+|**C問題**|計算量,数学|
 
 |[ABC289](https://atcoder.jp/contests/abc289)|復習内容|
 |:--:|:--:|

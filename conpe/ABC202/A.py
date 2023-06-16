@@ -1,0 +1,5 @@
+a,b,c = map(int,input().split())
+a = abs(a-7)
+b = abs(b-7)
+c = abs(c-7)
+print(a+b+c)
