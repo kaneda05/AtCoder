@@ -1,0 +1,12 @@
+s1 = input()
+s2 = input()
+s3 = input()
+s4 = input()
+
+S = set()
+S.add(s1)
+S.add(s2)
+S.add(s3)
+S.add(s4)
+if len(S)==4: print("Yes")
+else : print("No")
