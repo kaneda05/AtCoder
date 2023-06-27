@@ -8,6 +8,20 @@
 |:--:|:--:|
 |**C問題**|計算量,数学|
 
+|[ABC222](https://atcoder.jp/contests/abc222)|復習内容|
+|:--:|:--:|
+|**C問題**|ジャンケンのシミュレーション|
+- 二次元配列で勝敗を管理
+
+|[ABC223](https://atcoder.jp/contests/abc223)|復習内容|
+|:--:|:--:|
+|**B問題**|文字列のシフト|
+
+|[ABC225](https://atcoder.jp/contests/abc225)|復習内容|
+|:--:|:--:|
+|**A問題**|順序全探索 itertools.permutations|
+
+
 |[ABC289](https://atcoder.jp/contests/abc289)|復習内容|
 |:--:|:--:|
 |**C問題とD問題**|bit全探索と一次元のDP|

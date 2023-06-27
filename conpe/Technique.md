@@ -2,6 +2,14 @@
 **ABC291C問題**
 集合であれば要素検索を O(1)で行うことができる
 
+### 文字列
+[Pythonで文字列・数値をゼロ埋め(ゼロパディング)](https://note.nkmk.me/python-zero-padding/)
+- ABC222: [A問題](https://atcoder.jp/contests/abc222/tasks/abc222_a)
+
+取得した文字列を左シフトと右シフトしたものを取得する
+- ABC223: [B問題](https://atcoder.jp/contests/abc223/tasks/abc223_b)
+
+
 ### 回転系
 [【Python】行列の90度右回転、90度左回転、180度回転【AtCoder】](https://qiita.com/rudorufu1981/items/5341d9603ecb1f9c2e5c)
 
