@@ -21,6 +21,22 @@
 |:--:|:--:|
 |**A問題**|順序全探索 itertools.permutations|
 
+|[ABC231](https://atcoder.jp/contests/abc231)|復習内容|
+|:--:|:--:|
+|**B問題**|辞書の使い方|
+
+|[ABC232](https://atcoder.jp/contests/abc232)|復習内容|
+|:--:|:--:|
+|**B問題**|ordとchrの変換|
+
+|[ABC234](https://atcoder.jp/contests/abc234)|復習内容|
+|:--:|:--:|
+|**C問題**|発想|
+
+|[ABC235](https://atcoder.jp/contests/abc235)|復習内容|
+|:--:|:--:|
+|**C問題**|連想配列|
+
 
 |[ABC289](https://atcoder.jp/contests/abc289)|復習内容|
 |:--:|:--:|
