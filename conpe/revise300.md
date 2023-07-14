@@ -38,6 +38,10 @@
 |**C問題**|連想配列|
 
 
+|[ABC270](https://atcoder.jp/contests/abc270)|復習内容|
+|:--:|:--:|
+|**A問題**|OR演算|
+
 |[ABC289](https://atcoder.jp/contests/abc289)|復習内容|
 |:--:|:--:|
 |**C問題とD問題**|bit全探索と一次元のDP|
