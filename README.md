@@ -56,7 +56,7 @@
 
 |Union-Find|Python|C++|メモ|
 |:--:|:--:|:--:|:--:|
-|[ABC420-E](https://atcoder.jp/contests/abc420/tasks/abc420_e|[Python](https://github.com/kaneda05/AtCoder/blob/main/ABC_400/ABC420/E.py)|[]()|xxx|
+|[ABC420-E](https://atcoder.jp/contests/abc420/tasks/abc420_e)|[Python](https://github.com/kaneda05/AtCoder/blob/main/ABC_400/ABC420/E.py)|[]()|xxx|
 
 |セグ木|Python|C++|メモ|
 |:--:|:--:|:--:|:--:|
