@@ -49,8 +49,8 @@
 
 |BFS|Python|C++|メモ|
 |:--:|:--:|:--:|:--:|
-|[ABC415-C](https://atcoder.jp/contests/abc415/tasks/abc415_c|[Python](https://github.com/kaneda05/AtCoder/blob/main/ABC_400/ABC415/C.py)|[]()|xxx|
-|[ABC420-D](https://atcoder.jp/contests/abc420/tasks/abc420_d|[Python](https://github.com/kaneda05/AtCoder/blob/main/ABC_400/ABC420/D.py)|[]()|xxx|
+|[ABC415-C](https://atcoder.jp/contests/abc415/tasks/abc415_c)|[Python](https://github.com/kaneda05/AtCoder/blob/main/ABC_400/ABC415/C.py)|[]()|xxx|
+|[ABC420-D](https://atcoder.jp/contests/abc420/tasks/abc420_d)|[Python](https://github.com/kaneda05/AtCoder/blob/main/ABC_400/ABC420/D.py)|[]()|xxx|
 
 
 
