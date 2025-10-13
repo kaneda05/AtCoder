@@ -29,6 +29,7 @@
 |[ABC410-C](https://atcoder.jp/contests/abc410/tasks/abc410_c)|[Python](https://github.com/kaneda05/AtCoder/blob/main/ABC_400/ABC410/C.py)|[]()|xxx|
 |[ABC411-C](https://atcoder.jp/contests/abc411/tasks/abc411_c)|[Python](https://github.com/kaneda05/AtCoder/blob/main/ABC_400/ABC411/C.py)|[]()|xxx|
 |[ABC413-C](https://atcoder.jp/contests/abc413/tasks/abc413_c)|[Python](https://github.com/kaneda05/AtCoder/blob/main/ABC_400/ABC413/C.py)|[]()|xxx|
+|[ABC419-B](https://atcoder.jp/contests/abc419/tasks/abc419_b)|[Python](https://github.com/kaneda05/AtCoder/blob/main/ABC_400/ABC419/B.py)|[]()|xxx|
 |[ABC420-C](https://atcoder.jp/contests/abc420/tasks/abc420_c)|[Python](https://github.com/kaneda05/AtCoder/blob/main/ABC_400/ABC420/C.py)|[]()|xxx|
 
 ---
@@ -67,3 +68,7 @@
 ### DP
 
 ### 整数問題
+
+|数学|Python|C++|メモ|
+|:--:|:--:|:--:|:--:|
+|[ABC419-C](https://atcoder.jp/contests/abc419/tasks/abc419_c)|[Python](https://github.com/kaneda05/AtCoder/blob/main/ABC_400/ABC419/C.py)|[]()|チェビシェフ距離|
